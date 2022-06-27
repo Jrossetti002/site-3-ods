@@ -1,0 +1,165 @@
+    .wrapper{
+    background-color: #4c9f38;
+    width:98.9vw;
+    height: 390vh;
+    left: 0vw;
+    top: 0vh;
+    position: absolute;
+    }
+    
+    .top{
+    position: absolute;    
+    width:98.9vw;
+    height: 80vh;
+    left: 0vw;
+    top: 0vh;
+    z-index: 1;
+    }
+    
+    .conteudo{
+    position: absolute;
+    width:80vw;
+    height: 30vh;
+    left: 9vw;
+    margin-top: 120vh;
+    background-color: #cbdad14c;
+    z-index: 1;
+    }
+    
+    .divimg-top{
+    position: absolute;    
+    width:98.9vw;
+    height: 80vh;
+    left: 0vw;
+    top: 0vh;  
+    z-index: 1;
+    }
+    
+    .img-top{
+    position: absolute;    
+    width:98.9vw;
+    height: 70vh;
+    left: 0vw;
+    top: 0vh; 
+    z-index: 1;
+    }
+    
+    .imgsb{
+    position: absolute;    
+    width:98.9vw;
+    height: 60vh;
+    left: 0vw;
+    top: 60vh; 
+    align-items: center;
+    z-index: 1;
+    }
+    
+    .div-text1{
+    position: absolute;
+    width: 50vw;;
+    height: 50vh;
+    left: 28vw;
+    top: 20vh;
+    z-index: 2;
+    }
+    
+    .text1{
+    position: absolute;
+    font-family:Edwardian Script ITC ;
+    font-size: 50px;
+    top: 390px;
+    color: #ffffff;
+    } 
+    
+    .div-text2{
+    position: absolute;
+    width:70vw;
+    height: 50vh;
+    left: 5vw;
+    margin-top: 2vh;
+    z-index: 2;
+    }
+    
+    .text2{
+    position: absolute;
+    font-family: Candara Light ;
+    font-size: 30px;
+    color: #ffffff;
+    }
+    
+    .objetivos{
+    position: relativo;
+    width:70vw;
+    height: 500vh;
+    margin-left: 10vw;
+    margin-top: 160vh;
+    z-index: 1;
+    }
+    
+    .div-text3{
+    position: relativo;
+    width: 70vw;
+    height: 400vh;
+    left: 00vw;
+    margin-top: 00vh;
+    z-index: 2;
+    }
+
+    .colorido{
+    color: #ffffff;
+    font-family: Candara Light ;
+    font-size: 18px;
+    position: absolute;
+    text-align: center;
+    }
+    
+    .imgcolorida{
+    top: 1200px;
+    right: 200px;
+    position: absolute;
+    }
+
+    .coracao{
+    top: 1750px;
+    height: 10px;
+    left: 200px;
+    position: absolute;
+    }
+
+    .texto2{
+    position: absolute;
+    color: #ffffff;
+    font-family: Candara Light ;
+    font-size: 18px;
+    text-align: center;
+    right: 100px;
+    top: 1750px;
+    }
+
+    .ultimotext{
+    position: absolute;
+    color: #ffffff;
+    font-family: Candara Light ;
+    font-size: 18px;
+    text-align: center;
+    left: 250px;
+    top: 2240px;
+    }
+    
+    .footer{
+    background-color: #03351965;
+    width:98.9vw;
+    height: 30vh;
+    left: 0vw;
+    top: 360vh;
+    position: absolute;
+    }
+    
+    .text-footer{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    margin-top: 12.5vh;
+    margin-left: 30vw;
+    } 
